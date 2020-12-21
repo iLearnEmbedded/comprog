@@ -1,4 +1,4 @@
-### comprog
+### Competitive Programming
 
 ### Daily Dosage
 
